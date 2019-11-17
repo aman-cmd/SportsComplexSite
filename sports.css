@@ -12,6 +12,7 @@ body {
   width: 100%;
  margin: 0 auto;
   height: 70px;
+  box-shadow: 0 10px 14px 0 rgba(0, 0, 0, 0.2), 0 10px 24px 0 rgba(0, 0, 0, 0.19);
 }
 
 .navigation-bar {
